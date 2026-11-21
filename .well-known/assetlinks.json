@@ -1,0 +1,12 @@
+[
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "kz.school.birge",
+      "sha256_cert_fingerprints": [
+        "B3:AE:52:73:29:72:E8:BD:6E:BD:85:11:9C:BE:03:6B:BE:06:6D:C9:76:95:53:CB:F7:BE:59:25:CD:E1:8B:25"
+      ]
+    }
+  }
+]
